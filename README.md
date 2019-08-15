@@ -2,6 +2,9 @@
 ![](images/Cyrus.name.png)
 
 ## HRR-Expanded
+![](images/eu4.1.jpg)
+Europa Universalis IV ist ein historisch basiertes Strategiespiel, in welchem man als ein Staat zwischen 1444-1821 versucht die Welt zuerobern. Das spiel läuft mit der sogenannten Clausewitz Engine. Diese ermöglicht einfaches Modding in Notepad++
+
 
 ## Progress Blog
 
